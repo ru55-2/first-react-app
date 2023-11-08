@@ -4,7 +4,7 @@ import {styles} from "./styles"
 
 
 
-
+//createing a nav element in react that i can import easily into my app
 function Nav() {
   const NavList = ["Home","Admin","New Game"];
   let isAdmin = false;
